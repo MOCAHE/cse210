@@ -1,5 +1,4 @@
-
-from ast import If
+# I took this course last semester so I saw some solutions shown to us, I can't take all the credit for this work.
 
 
 def main():
