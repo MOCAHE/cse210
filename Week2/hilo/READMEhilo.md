@@ -21,7 +21,7 @@ root                    (project root folder)
 +-- hilo                (source code for game)
   +-- game              (specific classes)
   +-- __main__.py       (program entry point)
-+-- READMEhilo.md       (general info)
+  +-- READMEhilo.md       (general info)
 ```
 
 ## Required Technologies
