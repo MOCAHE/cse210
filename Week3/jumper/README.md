@@ -1,5 +1,5 @@
 # Jumper
-Try to guess a random word, if you do the game is over, but for every time you miss, a part of the jumper will disappear.
+Try to guess a random word, if you do the game is over, but for every time you fail, a part of the jumper will disappear.
 
 ## Getting Started
 ---
@@ -16,10 +16,10 @@ project folder. Select the main module inside the dice folder and click the "run
 The project files and folders are organized as follows:
 ```
 root                    (project root folder)
-+-- jumper                (source code for game)
++-- jumper              (source code for game)
   +-- game              (specific classes)
   +-- __main__.py       (program entry point)
-  +-- READMEhilo.md       (general info)
+  +-- README.md         (general info)
 ```
 
 ## Required Technologies
@@ -28,4 +28,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Moisés Cano Hernández (can22002@byui.edu
+* Moisés Cano Hernández (can22002@byui.edu)
