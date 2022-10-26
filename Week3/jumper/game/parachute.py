@@ -1,7 +1,6 @@
 class Parachute:
 
     def __init__(self):
-    #Dibujar Parachute
         self.parachute = [" ", 
     "                      ___ ", 
     "                     /___\ ", 
